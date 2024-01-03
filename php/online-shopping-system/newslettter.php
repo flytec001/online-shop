@@ -10,7 +10,7 @@
 					<div class="col-md-12">
 					
 						<div class="newsletter">
-							<p>Sign up to Edureka's Newsletter 
+							<p>Sign up to edureka's Newsletter 
 for <strong>OFFER UPDATES</strong></p>
 							<form id="offer_form" onsubmit="return false">
 								<input class="input" type="email" id="email" name="email" placeholder="Enter Your Email">
